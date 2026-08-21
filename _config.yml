@@ -1,0 +1,104 @@
+---
+booktitle: Proceedings of the 2nd International Conference on Probabilistic Numerics
+shortname: ProbNum
+volume: '341'
+year: '2026'
+start: &1 2026-09-09
+end: 2026-09-11
+published: 2026-08-21
+conference_number: '2'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ProbNum-2026
+month: 0
+cycles: false
+bibtex_editor: Karvonen, Toni and Bosch, Nathanael and Cockayne, Jon and Gessner,
+  Alexandra and Hennig, Philipp and Kouw, Wouter
+editor:
+- given: Toni
+  family: Karvonen
+- given: Nathanael
+  family: Bosch
+- given: Jon
+  family: Cockayne
+- given: Alexandra
+  family: Gessner
+- given: Philipp
+  family: Hennig
+- given: Wouter
+  family: Kouw
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 2nd International Conference on Probabilistic Numerics
+    Held in LUT University, Lappeenranta, Finland on 09-11 September 2026
+
+  Published as Volume 341 by the Proceedings of Machine Learning Research on 21 August 2026.
+
+  Volume Edited by:
+    Toni Karvonen
+    Nathanael Bosch
+    Jon Cockayne
+    Alexandra Gessner
+    Philipp Hennig
+    Wouter Kouw
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: '09--11 Sep'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v341"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v341
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v341
+email: ''
+conference:
+  name: International Conference on Probabilistic Numerics
+  url: https://probnum2026.github.io/
+  location: LUT University, Lappeenranta, Finland
+  dates:
+  - *1
+  - 2026-09-10
+  - 2026-09-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: probnum26_clean.bib
+# Site settings
+# Original source:  probnum26_clean.bib
