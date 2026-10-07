@@ -3,7 +3,7 @@ booktitle: Proceedings of the 2nd International Conference on Probabilistic Nume
 shortname: ProbNum
 volume: '341'
 year: '2026'
-start: &1 2026-09-09
+start: 2026-09-09
 end: 2026-09-11
 published: 2026-08-21
 conference_number: '2'
@@ -84,7 +84,7 @@ conference:
   url: https://probnum2026.github.io/
   location: LUT University, Lappeenranta, Finland
   dates:
-  - *1
+  - 2026-09-09
   - 2026-09-10
   - 2026-09-11
 analytics:
